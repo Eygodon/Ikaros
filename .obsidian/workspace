@@ -1,0 +1,121 @@
+{
+  "main": {
+    "id": "beaa181792a97660",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e709dc8fd36733e",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      },
+      {
+        "id": "3c83beb4b06a626e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "BackGround.md",
+            "mode": "source"
+          }
+        },
+        "group": "41bba92a24c8d138"
+      },
+      {
+        "id": "a9ec43e8eb4dd9f3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "BackGround.md",
+            "mode": "preview"
+          }
+        },
+        "group": "41bba92a24c8d138"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3c0c8e25f6b40538",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb6fd4b5c82debac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5831d7ed219c2f5d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "256de8d0e12e9281",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "343dc25b0f2951b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "c700896857a7f64d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a424485bf47c2831",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "BackGround.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "3c83beb4b06a626e",
+  "lastOpenFiles": [
+    "BackGround.md",
+    "Les Ducs des cavernes profondes.md",
+    "Cavernes profondes.md",
+    "Sorciers rouge.md",
+    "Klass.md",
+    "Zulkirs.md",
+    "Thay.md"
+  ]
+}

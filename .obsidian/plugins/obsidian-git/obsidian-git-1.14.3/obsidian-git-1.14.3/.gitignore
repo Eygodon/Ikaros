@@ -1,0 +1,16 @@
+# Intellij
+*.iml
+.idea
+
+# npm
+node_modules
+package-lock.json
+main.js
+yarn.lock
+
+# build
+*.js.map
+
+.prettierignore
+.prettierrc.json
+/data.json
