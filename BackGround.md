@@ -20,4 +20,4 @@ Le choix fut rapide, Ikaros voulait découvrir le monde, l'éducation reçue dep
 ## Comportement et relation avec Klass
 
 Conscient des capacités de son élève, la communication télépathique avec ce dernier est unidirectionnelle. Klass peut communiquer et lire dans l'esprit d'Ikaros mais l'inverse n'est pas possible. Le seul moyen de communiquer avec son patron est à voix audible et il n'obtiendra réponse que si ce dernier écoute activement. 
-Ikaros prendra sans arrêt des notes afin de respecter sa part du pacte mais pas seulement. Sa soif de savoir est égalemment insatiable et qu'importe les desseins que peut avoir son patron avec cette connaissance, il a lui même ses propres objectifs.boubibou
+Ikaros prendra sans arrêt des notes afin de respecter sa part du pacte mais pas seulement. Sa soif de savoir est égalemment insatiable et qu'importe les desseins que peut avoir son patron avec cette connaissance, il a lui même ses propres objectifs.
