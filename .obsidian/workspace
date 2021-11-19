@@ -4,36 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "4e709dc8fd36733e",
-        "type": "leaf",
-        "state": {
-          "type": "graph",
-          "state": {}
-        }
-      },
-      {
         "id": "3c83beb4b06a626e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "BackGround.md",
+            "file": "jour 1 - 28e de Marpenoth.md",
             "mode": "source"
           }
-        },
-        "group": "41bba92a24c8d138"
+        }
       },
       {
-        "id": "a9ec43e8eb4dd9f3",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "BackGround.md",
-            "mode": "preview"
+        "id": "440925feffa6fadf",
+        "type": "split",
+        "children": [
+          {
+            "id": "6bbfbae4752c86fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Côte de l'épée.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "23da6ccdd215ebc2",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        },
-        "group": "41bba92a24c8d138"
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -60,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "eltur",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +74,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -90,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BackGround.md",
+                "file": "jour 1 - 28e de Marpenoth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,12 +116,15 @@
   },
   "active": "3c83beb4b06a626e",
   "lastOpenFiles": [
+    "jour 1 - 28e de Marpenoth.md",
+    "Côte de l'épée.md",
+    "Elturgard.md",
     "BackGround.md",
+    "Kelemvor.md",
+    "halte du repos.md",
     "Les Ducs des cavernes profondes.md",
     "Cavernes profondes.md",
     "Sorciers rouge.md",
-    "Klass.md",
-    "Zulkirs.md",
-    "Thay.md"
+    "Klass.md"
   ]
 }

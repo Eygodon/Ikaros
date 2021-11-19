@@ -15,7 +15,7 @@ Au bout de 10 ans de captivité [[Klass]] offrit un choix à Ikaros. Sa premièr
 
 ## Le retour dans le plan physique
 
-Le choix fut rapide, Ikaros voulait découvrir le monde, l'éducation reçue depuis son arrivée dans [[Cavernes profondes|ce plan]] avait fait naitre en lui une soif de savoir comparable à celle de son mentor. Il fut donc déposé au Sud-Est de la côte de l'épée au royaume d'[[Elturgard]] après avoir été équipé par les soins de son mentor. Là bas il entendit parler d'une expédition menée par un groupe d'adeptes de [[Kelemvor]] qui cherchait une escorte. Il s'empressa de saisir sa chance d'en apprendre plus sur ce culte et de voir du pays dans le même temps. 
+Le choix fut rapide, Ikaros voulait découvrir le monde, l'éducation reçue depuis son arrivée dans [[Cavernes profondes|ce plan]] avait fait naitre en lui une soif de savoir comparable à celle de son mentor. Il fut donc déposé au Sud-Est de la côte de l'épée au royaume d'Elturgard après avoir été équipé par les soins de son mentor. Là bas il entendit parler d'une expédition menée par un groupe d'adeptes de [[Kelemvor]] qui cherchait une escorte. Il s'empressa de saisir sa chance d'en apprendre plus sur ce culte et de voir du pays dans le même temps. 
 
 ## Comportement et relation avec Klass
 
